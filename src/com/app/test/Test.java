@@ -12,7 +12,7 @@ public class Test {
 		Object ob=ac.getBean("sObj");
 		Student s=(Student)ob;
 		System.out.println(s);
-		System.out.println("Done");
+		
 
 	}
 
